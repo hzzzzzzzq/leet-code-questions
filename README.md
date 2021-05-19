@@ -26,3 +26,10 @@
 [12.JavaScript - 翻转二叉树](https://github.com/Huzq-Strive/leet-code-questions/issues/12)
 
 [13.JavaScript - 找出数组中和为 sum 的 n 个数](https://github.com/Huzq-Strive/leet-code-questions/issues/13)
+
+[14.JavaScript - 贪心：具有给定数值的最小字符串](https://github.com/Huzq-Strive/leet-code-questions/issues/14)
+
+[15.JavaScript - 判断数独是否有效](https://github.com/Huzq-Strive/leet-code-questions/issues/15)
+
+[16.JavaScript - 数字回文数](https://github.com/Huzq-Strive/leet-code-questions/issues/16)
+
